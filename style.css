@@ -1,0 +1,33 @@
+img{max-width: 200px;max-height: 200px}
+
+body {background-image: url("background.jpg");
+background-repeat: no-repeat;
+background-size:cover;background-attachment: fixed;font-family:'Montserrat', sans-serif;
+;}
+
+
+#greysquare {background-color: black;
+background: rgb(0, 0, 0);
+  background: rgba(0, 0, 0, 0.5);
+  color: #f1f1f1;
+width: 1000px;margin:auto;
+padding: 100px;
+border-radius: 10px;}
+
+header{text-align: center;}
+
+.monopattini{text-align:justify;margin-left:50px;padding-top:30px}
+
+.titolomono{font-weight: bold;font-size: 30px;padding:15px}
+
+.carica1{height: 23px;width: 50px;background-color: orange;border-radius: 3px}
+
+.carica2{height:23px;width: 80px;background-color: rgb(8,220,4);border-radius: 3px}
+
+.carica3{height:23px;width:140px;background-color:red;border-radius: 3px }
+
+h1{color: rgb(8,220,4)}
+
+nav{background-color: rgb(8,220,4);
+box-sizing: border-box;padding: 10px;
+width:90%;display: inline-block;}
